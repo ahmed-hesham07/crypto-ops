@@ -47,7 +47,7 @@ An interactive, wizard-style CLI tool for encrypting and decrypting data using s
 ### 1. Clone or download
 
 ```bash
-git clone https://github.com/your-username/crypto-ops.git
+git clone https://github.com/ahmed-hesham07/crypto-ops.git
 cd crypto-ops
 ```
 
